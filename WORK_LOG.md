@@ -1,9 +1,9 @@
-Name: YOUR NAME HERE
+Name: Vikram Saluja
 
-| Date    |  Time  |                                     Update |
-|:--------|:------:|-------------------------------------------:|
-| April 5 | 9-10pm | I tried to write abstract, efficient code. |
-|         |        |                                            |
+| Date    |     Time      |                                                                                                                                                                                                                                                                                                                                                                                        Update |
+|:--------|:-------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| April 5 |    9-10pm     |                                                                                                                                                                                                                                                                                                                                                    I tried to write abstract, efficient code. |
+| Oct 30  | 11:30-11:55am |  My orginal thoughts are to see if I can use a trie so that I will be able to organize the URLs. I am also thinking if I could create arraylists and then have an overall bucket of arrays to try and have a constant lookup. The issue with how to handle the memory which is the core part of this problem set is still something that I am not totally sure about how I might approach it. |
 
 
 To add a new row to the table, click into a cell and then hit shift-enter.

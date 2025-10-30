@@ -6,7 +6,7 @@ import java.io.IOException;
  * for Adventures in Algorithms
  * At Menlo School in Atherton, CA
  *
- * Completed by: [YOUR NAME HERE]
+ * Completed by: Vikram Saluja
  **/
 
 public class Finder {
