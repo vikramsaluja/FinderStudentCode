@@ -16,12 +16,10 @@ public class Finder {
     public Finder() {}
 
     public void buildTable(BufferedReader br, int keyCol, int valCol) throws IOException {
-        // TODO: Complete the buildTable() function!
         br.close();
     }
 
     public String query(String key){
-        // TODO: Complete the query() function!
         return INVALID;
     }
 }
